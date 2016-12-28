@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Algo Practice Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hacker_rank">Hacker Rank</string>
+    <string name="leet_code">Leet Code</string>
+    <string name="ctci">Cracking the Coding Interview</string>
+    <string name="four_questions">4 Questions</string>
+
+</resources>
